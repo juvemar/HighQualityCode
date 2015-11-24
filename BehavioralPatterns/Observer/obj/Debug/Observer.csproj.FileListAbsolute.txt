@@ -1,0 +1,6 @@
+C:\Users\Atanasov\Desktop\BehavioralPatterns\Observer\bin\Debug\Observer.exe.config
+C:\Users\Atanasov\Desktop\BehavioralPatterns\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+C:\Users\Atanasov\Desktop\BehavioralPatterns\Observer\bin\Debug\Observer.exe
+C:\Users\Atanasov\Desktop\BehavioralPatterns\Observer\bin\Debug\Observer.pdb
+C:\Users\Atanasov\Desktop\BehavioralPatterns\Observer\obj\Debug\Observer.exe
+C:\Users\Atanasov\Desktop\BehavioralPatterns\Observer\obj\Debug\Observer.pdb

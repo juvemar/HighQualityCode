@@ -1,0 +1,6 @@
+C:\Users\Atanasov\Desktop\BehavioralPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Users\Atanasov\Desktop\BehavioralPatterns\TemplateMethod\obj\Debug\TemplateMethod.csprojResolveAssemblyReference.cache
+C:\Users\Atanasov\Desktop\BehavioralPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Users\Atanasov\Desktop\BehavioralPatterns\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\Atanasov\Desktop\BehavioralPatterns\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Users\Atanasov\Desktop\BehavioralPatterns\TemplateMethod\obj\Debug\TemplateMethod.pdb

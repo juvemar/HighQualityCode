@@ -1,0 +1,13 @@
+c:\users\atanasov\documents\visual studio 2013\Projects\CSS\Exam\CodeFormatting\01. Task1\bin\Debug\_01.Task1.exe.config
+C:\Users\Racheva\Desktop\CodeFormatting\CodeFormatting\01. Task1\bin\Debug\_01.Task1.exe.config
+C:\Users\Racheva\Desktop\CodeFormatting\CodeFormatting\01. Task1\obj\Debug\01. Task1.csprojResolveAssemblyReference.cache
+C:\Users\Racheva\Desktop\CodeFormatting\CodeFormatting\01. Task1\bin\Debug\_01.Task1.exe
+C:\Users\Racheva\Desktop\CodeFormatting\CodeFormatting\01. Task1\bin\Debug\_01.Task1.pdb
+C:\Users\Racheva\Desktop\CodeFormatting\CodeFormatting\01. Task1\bin\Debug\PowerCollections.dll
+C:\Users\Racheva\Desktop\CodeFormatting\CodeFormatting\01. Task1\bin\Debug\PowerCollections.xml
+C:\Users\Racheva\Desktop\CodeFormatting\CodeFormatting\01. Task1\obj\Debug\_01.Task1.exe
+C:\Users\Racheva\Desktop\CodeFormatting\CodeFormatting\01. Task1\obj\Debug\_01.Task1.pdb
+C:\Users\Atanasov\Desktop\CodeFormatting\CodeFormatting\CodeFormatting\01. Task1\bin\Debug\_01.Task1.exe.config
+C:\Users\Atanasov\Desktop\CodeFormatting\CodeFormatting\CodeFormatting\01. Task1\obj\Debug\_01.Task1.exe
+C:\Users\Atanasov\Desktop\CodeFormatting\CodeFormatting\CodeFormatting\01. Task1\obj\Debug\_01.Task1.pdb
+C:\Users\Atanasov\Documents\Visual Studio 2013\Projects\HighQualityCode\01. CodeFormatting\01. Task1\bin\Debug\_01.Task1.exe.config

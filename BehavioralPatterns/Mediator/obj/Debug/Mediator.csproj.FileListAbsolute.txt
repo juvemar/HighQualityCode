@@ -1,0 +1,6 @@
+C:\Users\Atanasov\Desktop\BehavioralPatterns\Mediator\obj\Debug\Mediator.csprojResolveAssemblyReference.cache
+C:\Users\Atanasov\Desktop\BehavioralPatterns\Mediator\bin\Debug\Mediator.exe.config
+C:\Users\Atanasov\Desktop\BehavioralPatterns\Mediator\bin\Debug\Mediator.exe
+C:\Users\Atanasov\Desktop\BehavioralPatterns\Mediator\bin\Debug\Mediator.pdb
+C:\Users\Atanasov\Desktop\BehavioralPatterns\Mediator\obj\Debug\Mediator.exe
+C:\Users\Atanasov\Desktop\BehavioralPatterns\Mediator\obj\Debug\Mediator.pdb

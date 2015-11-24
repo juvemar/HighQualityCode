@@ -1,0 +1,6 @@
+C:\Users\Atanasov\Documents\Visual Studio 2013\Projects\HighQualityCode\High-Quality-Code-master\04. Code Documentation and Comments\Homework\bin\Debug\StringExtensions.XML
+C:\Users\Atanasov\Documents\Visual Studio 2013\Projects\HighQualityCode\High-Quality-Code-master\04. Code Documentation and Comments\Homework\bin\Debug\StringExtensions.dll
+C:\Users\Atanasov\Documents\Visual Studio 2013\Projects\HighQualityCode\High-Quality-Code-master\04. Code Documentation and Comments\Homework\bin\Debug\StringExtensions.pdb
+C:\Users\Atanasov\Documents\Visual Studio 2013\Projects\HighQualityCode\High-Quality-Code-master\04. Code Documentation and Comments\Homework\obj\Debug\StringExtensions.csprojResolveAssemblyReference.cache
+C:\Users\Atanasov\Documents\Visual Studio 2013\Projects\HighQualityCode\High-Quality-Code-master\04. Code Documentation and Comments\Homework\obj\Debug\StringExtensions.dll
+C:\Users\Atanasov\Documents\Visual Studio 2013\Projects\HighQualityCode\High-Quality-Code-master\04. Code Documentation and Comments\Homework\obj\Debug\StringExtensions.pdb

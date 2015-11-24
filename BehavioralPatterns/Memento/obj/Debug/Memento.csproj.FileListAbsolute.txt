@@ -1,0 +1,1 @@
+C:\Users\Atanasov\Desktop\BehavioralPatterns\Memento\bin\Debug\Memento.exe.config

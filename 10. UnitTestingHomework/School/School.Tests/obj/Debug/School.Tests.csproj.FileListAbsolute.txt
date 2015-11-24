@@ -1,0 +1,7 @@
+D:\TelerikAcademy\Visual Studio 2013\Projects\HighQualityCode\10. UnitTestingHomework\School\School.Tests\bin\Debug\School.Tests.dll
+D:\TelerikAcademy\Visual Studio 2013\Projects\HighQualityCode\10. UnitTestingHomework\School\School.Tests\bin\Debug\School.Tests.pdb
+D:\TelerikAcademy\Visual Studio 2013\Projects\HighQualityCode\10. UnitTestingHomework\School\School.Tests\bin\Debug\School.dll
+D:\TelerikAcademy\Visual Studio 2013\Projects\HighQualityCode\10. UnitTestingHomework\School\School.Tests\bin\Debug\School.pdb
+D:\TelerikAcademy\Visual Studio 2013\Projects\HighQualityCode\10. UnitTestingHomework\School\School.Tests\obj\Debug\School.Tests.csprojResolveAssemblyReference.cache
+D:\TelerikAcademy\Visual Studio 2013\Projects\HighQualityCode\10. UnitTestingHomework\School\School.Tests\obj\Debug\School.Tests.dll
+D:\TelerikAcademy\Visual Studio 2013\Projects\HighQualityCode\10. UnitTestingHomework\School\School.Tests\obj\Debug\School.Tests.pdb

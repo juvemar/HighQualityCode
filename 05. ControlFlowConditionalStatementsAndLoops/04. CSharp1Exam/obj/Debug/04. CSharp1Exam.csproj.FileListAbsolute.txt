@@ -1,0 +1,1 @@
+C:\Users\Atanasov\Documents\Visual Studio 2013\Projects\HighQualityCode\05. ControlFlowConditionalStatementsAndLoops\04. CSharp1Exam\bin\Debug\_04.CSharp1Exam.exe.config

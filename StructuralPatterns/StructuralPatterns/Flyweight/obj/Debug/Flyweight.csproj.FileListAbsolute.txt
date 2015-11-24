@@ -1,0 +1,6 @@
+C:\Users\Atanasov\Documents\Visual Studio 2013\Projects\HighQualityCode\StructuralPatterns\StructuralPatterns\Flyweight\bin\Debug\Flyweight.exe.config
+C:\Users\Atanasov\Documents\Visual Studio 2013\Projects\HighQualityCode\StructuralPatterns\StructuralPatterns\Flyweight\obj\Debug\Flyweight.csprojResolveAssemblyReference.cache
+C:\Users\Atanasov\Documents\Visual Studio 2013\Projects\HighQualityCode\StructuralPatterns\StructuralPatterns\Flyweight\bin\Debug\Flyweight.exe
+C:\Users\Atanasov\Documents\Visual Studio 2013\Projects\HighQualityCode\StructuralPatterns\StructuralPatterns\Flyweight\bin\Debug\Flyweight.pdb
+C:\Users\Atanasov\Documents\Visual Studio 2013\Projects\HighQualityCode\StructuralPatterns\StructuralPatterns\Flyweight\obj\Debug\Flyweight.exe
+C:\Users\Atanasov\Documents\Visual Studio 2013\Projects\HighQualityCode\StructuralPatterns\StructuralPatterns\Flyweight\obj\Debug\Flyweight.pdb

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{13D8073C-4963-47E7-AA13-8B7668136AAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator", "Mediator\Mediator.csproj", "{4207DFEA-2FFE-4101-B4EC-410D3DAA3DA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{1D32E5A0-EA2B-4400-9EFA-BF62D9DE21BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "D:\TelerikAcademy\Visual Studio 2013\MementoPattern\Memento\Memento.csproj", "{4291133C-E717-406E-A9D6-F8CA148EDC31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13D8073C-4963-47E7-AA13-8B7668136AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D8073C-4963-47E7-AA13-8B7668136AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D8073C-4963-47E7-AA13-8B7668136AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D8073C-4963-47E7-AA13-8B7668136AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4207DFEA-2FFE-4101-B4EC-410D3DAA3DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4207DFEA-2FFE-4101-B4EC-410D3DAA3DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4207DFEA-2FFE-4101-B4EC-410D3DAA3DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4207DFEA-2FFE-4101-B4EC-410D3DAA3DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D32E5A0-EA2B-4400-9EFA-BF62D9DE21BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D32E5A0-EA2B-4400-9EFA-BF62D9DE21BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D32E5A0-EA2B-4400-9EFA-BF62D9DE21BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D32E5A0-EA2B-4400-9EFA-BF62D9DE21BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4291133C-E717-406E-A9D6-F8CA148EDC31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4291133C-E717-406E-A9D6-F8CA148EDC31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4291133C-E717-406E-A9D6-F8CA148EDC31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4291133C-E717-406E-A9D6-F8CA148EDC31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
